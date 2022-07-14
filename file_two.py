@@ -6,4 +6,5 @@ def hi_there():
     print('hi')
 
 def hi_there():
-    print('my local change')
+  print('updated python function with merge conflict demo')
+
