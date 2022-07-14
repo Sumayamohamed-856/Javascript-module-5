@@ -1,6 +1,6 @@
 <!-- My git project  -->
 
-> My code for git project
+> My little conflict merge demo
 
 # Am in the new feature new branch
 
