@@ -1,6 +1,6 @@
 <!-- My git project  -->
 
-> My code for git project
+> My scary conflict code
 
 # Am in the new feature new branch
 
